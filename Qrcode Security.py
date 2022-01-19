@@ -8,7 +8,7 @@ cap.set(3,640)
 cap.set(4,480)
 
 
-myDataList = 'anaoy'
+myDataList = 'Your password'
 
 while True:
 
